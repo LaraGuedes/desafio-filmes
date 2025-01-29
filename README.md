@@ -5,7 +5,7 @@
 🔗 **Link do projeto:** [https://hiring-front-ocvat852r-laras-projects-10daea03.vercel.app/]
 
 ## 📌 Visão Geral
-Criação de uma atividade de fixação usando o **map()**, juntamente com a atividade de fixação de criação de interface React proposta pelo curso **Fustak do VNW**.
+Criação de uma atividade de fixação usando o **map()**, juntamente com a atividade de fixação de criação de interface React proposta pelo curso **FullStack do VNW**.
 
 ## ✅ Requisitos Funcionais
 - Criar uma página usando um **array de objetos** com um tema livre.
@@ -25,9 +25,10 @@ Criação de uma atividade de fixação usando o **map()**, juntamente com a ati
 - **Home**: Exibe um **banner** com um filme principal.
 - **Filmes**: Lista de filmes organizados por **continuar assistindo**, **tipo** e **todos os filmes**.
 
-  <img src="/img/inicio.png" alt="Imagem inicial />
-  <img src="/img/next.png" alt="Imagem inicial />
-  <img src="/img/filmes.png" alt="Imagem inicial />
+
+  <img src="../img/inicio.png" alt="Imagem inicial" />
+  <img src="../img/next.png" alt="Imagem próxima" />
+  <img src="../img/filmes.png" alt="Imagem de filmes" />
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -63,3 +64,4 @@ Criação de uma atividade de fixação usando o **map()**, juntamente com a ati
    ```
    http://localhost:5173
    ```
+
