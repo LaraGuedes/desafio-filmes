@@ -25,6 +25,9 @@ Criação de uma atividade de fixação usando o **map()**, juntamente com a ati
 - **Home**: Exibe um **banner** com um filme principal.
 - **Filmes**: Lista de filmes organizados por **continuar assistindo**, **tipo** e **todos os filmes**.
 
+  <img src="/img/inicio.png" alt="Imagem inicial />
+  <img src="/img/next.png" alt="Imagem inicial />
+  <img src="/img/filmes.png" alt="Imagem inicial />
 ---
 
 ## 🛠️ Tecnologias Utilizadas
