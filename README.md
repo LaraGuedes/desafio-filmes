@@ -26,9 +26,9 @@ Criação de uma atividade de fixação usando o **map()**, juntamente com a ati
 - **Filmes**: Lista de filmes organizados por **continuar assistindo**, **tipo** e **todos os filmes**.
 
 
-  <img src="../../img/inicio.png" alt="Imagem inicial" />
-  <img src="../../img/next.png" alt="Imagem próxima" />
-  <img src="../../img/filmes.png" alt="Imagem de filmes" />
+  <img src="./desafio-filmes/public/img/inicio.png" alt="Imagem inicial" />
+  <img src="./desafio-filmes/public/img/next.png" alt="Imagem próxima" />
+  <img src="./desafio-filmes/public/img/filmes.png" alt="Imagem de filmes" />
 ---
 
 ## 🛠️ Tecnologias Utilizadas
