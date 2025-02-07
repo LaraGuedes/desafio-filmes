@@ -2,8 +2,7 @@
 
 ## 🎬 Sistema de Filmes
 
-🔗 **Link do projeto:** [![image](https://github.com/user-attachments/assets/2ba4e581-13bb-40ab-bec5-d9b61659b09f)
-]
+🔗 **Link do projeto:** [https://desafio-filmes-eight.vercel.app/]
 
 ## 📌 Visão Geral
 Criação de uma atividade de fixação usando o **map()**, juntamente com a atividade de fixação de criação de interface React proposta pelo curso **FullStack do VNW**.
